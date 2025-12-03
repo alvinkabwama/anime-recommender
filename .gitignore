@@ -1,0 +1,6 @@
+.venv/
+.env
+models/
+chroma_db/
+logs/
+animation_recommender.egg-info/
