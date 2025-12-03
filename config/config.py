@@ -13,7 +13,6 @@ GROQ_MODEL_NAME = os.getenv("GROQ_MODEL_NAME", "llama-3.1-8B-instant")
 
 # --- HuggingFace Model Config ---
 HUGGINGFACEHUB_API_TOKEN = os.getenv("HUGGINGFACEHUB_API_TOKEN")
-
 HUGGINGFACE_MODEL_NAME = os.getenv("HUGGINGFACE_MODEL_NAME", "intfloat/e5-large-v2")
 
 # This ensures the models folder is ALWAYS at repo root
