@@ -1,5 +1,7 @@
 .venv/
 .env
 models/
+__pycache__/
+chroma_db
 logs/
 animation_recommender.egg-info/
